@@ -25,7 +25,8 @@
 
 * 🔐 Java Password Generator (Working on it)
 * 🌐 Portfolio Website (Planned)
-* 🛡️ Cybersecurity Tools (Learning Phase)
+* 🚌 Smart Bus Demand & Feedback Optimization System
+  Built a data-driven web solution to optimize public bus routes by analyzing passenger demand and real-time feedback.
 
 ---
 
