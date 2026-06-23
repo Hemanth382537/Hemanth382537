@@ -1,6 +1,5 @@
 # Hi 👋, I'm Hemanth
 
-🎓 BTech Cyber Security Student
 💻 Aspiring Software Engineer | Java & Python Enthusiast | Building Scalable Web Solutions | Problem Solver | DSA | SQL | Graphic Design | Cyber Security Learner
 
 ---
