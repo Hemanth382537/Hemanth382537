@@ -1,8 +1,7 @@
 # Hi 👋, I'm Hemanth
 
 🎓 BTech Cyber Security Student
-💻 Java |Software development || Frontend | Full Stack Development | UI/UX | Cybersecurity
-🚀 Passionate about building secure applications
+💻 Aspiring Software Engineer | Java & Python Enthusiast | Building Scalable Web Solutions | Problem Solver | DSA | SQL | Graphic Design | Cyber Security Learner
 
 ---
 
